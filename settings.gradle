@@ -1,0 +1,4 @@
+include ':androidAysncHttpMulitPartModifyLibrary'
+include ':androidStaggeredGridLibrary'
+include ':androidUniversalImageLoaderLibrary'
+include ':sample7StaggeredGrid'
